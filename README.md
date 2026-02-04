@@ -72,29 +72,6 @@
 
 ---
 
-## 🎓 教育背景
-
-**XX大学** | 计算机科学与技术专业 | 本科在读
-📅 2023.09 - 至今
-
-**主修课程**：
-- 数据结构与算法、操作系统、计算机网络
-- 机器学习、深度学习、计算机视觉
-- Python程序设计、C++程序设计
-
-**GPA**: X.XX/4.0 | **排名**: 前 XX%
-
----
-
-## 🏆 荣誉与成就
-
-- 🥇 **校级荣誉**：XX奖学金 (2024)
-- 📜 **竞赛经历**：XX编程竞赛 / XX人工智能大赛（参赛/获奖）
-- 🌟 **开源贡献**：为 PaddlePaddle 等开源项目提交 PR/Issue
-- 📚 **技术分享**：在 CSDN/知乎 发表技术文章 XX 篇，累计阅读量 XX+
-
----
-
 ## 📈 学习记录
 
 | 时间 | 学习内容 | 技术栈 | 成果产出 | 状态 |
@@ -120,19 +97,17 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aidenwu0209&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aidenwu0209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenwu0209&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenwu0209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aidenwu0209&theme=tokyonight&hide_border=true)](https://github.com/Aidenwu0209)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aidenwu0209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
