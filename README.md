@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aiden%20Wu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20OCR%20%7C%20Document%20Parsing%20%7C%20API%20Compatibility&descAlignY=58&descSize=18" alt="Aiden Wu banner" />
+  <img src="https://raw.githubusercontent.com/Aidenwu0209/Aidenwu0209/main/assets/profile-banner.svg" alt="Aiden Wu banner" />
 </p>
 
 <p align="center">
@@ -67,12 +67,7 @@
 
 重点方向仍然是 OCR、文档补充和兼容性相关工作。
 
-## GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aidenwu0209&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aidenwu0209&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Top Languages" />
-</p>
+## GitHub 活跃度
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aidenwu0209&hide_border=true&theme=transparent" alt="GitHub Streak" />
