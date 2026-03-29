@@ -40,23 +40,17 @@
 
 ### [CareerPilot](https://github.com/Aidenwu0209/CareerPilot)
 
-<img src="https://img.shields.io/github/stars/Aidenwu0209/CareerPilot?style=flat-square" alt="CareerPilot stars" />
-
 `FastAPI` `Vue 3` `TypeScript` `Docker Compose`
 
 > 一个面向职业规划场景的 AI 应用原型，覆盖简历解析、岗位知识管理、人岗匹配、学习路径规划和报告导出。
 
 ### [PaddleOCR-Skills](https://github.com/Aidenwu0209/PaddleOCR-Skills)
 
-<img src="https://img.shields.io/github/stars/Aidenwu0209/PaddleOCR-Skills?style=flat-square" alt="PaddleOCR-Skills stars" />
-
 `Python` `OCR` `PDF`
 
 > 面向 Claude Code 的 OCR skills 工具集，包含 text recognition 和 document parsing 两类能力。
 
 ### [PP-OCRv5-claude-code-Skill](https://github.com/Aidenwu0209/PP-OCRv5-claude-code-Skill)
-
-<img src="https://img.shields.io/github/stars/Aidenwu0209/PP-OCRv5-claude-code-Skill?style=flat-square" alt="PP-OCRv5-claude-code-Skill stars" />
 
 `PP-OCRv5` `Python` `OCR`
 
@@ -81,4 +75,10 @@
 
 <p align="center">
   如果你也在做 OCR 或 AI 应用，欢迎在 <a href="https://github.com/Aidenwu0209">GitHub</a> 上交流。
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aidenwu0209?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Stars-11-F5C542?style=flat-square&logo=github&logoColor=white" alt="Total stars" />
+  </a>
 </p>
